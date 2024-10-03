@@ -4,8 +4,7 @@ I'm passionate about all things data and software. I'm currently a Data Develope
 
 - 🔭 I’m currently working on tools that connect people with Data and AI
 - 🌱 I’m currently learning **Deep Learning**, **Computer Vision**, and **Generative AI**.
-- 📫How to reach me: [jakesteelman.com](https://jakesteelman.com) 
-
+- 📫 How to reach me: [jakesteelman.com](https://jakesteelman.com)
 
 <!--
 **jakesteelman/jakesteelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
